@@ -36,7 +36,7 @@
         {"pais": "Algeria", "code": "DZ"}
         
     ],
-    images: [
+    "images": [
         {"image": "https://picsum.photos/id/1/5616/3744"},
         {"image": "https://picsum.photos/id/10/2500/1667"},
     ]
