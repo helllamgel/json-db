@@ -28,13 +28,6 @@
             "price": 10,
             "profesor": "Alvaro Felipe"
           }
-    ],
-    "paises" : [
-        {"pais": "Afghanistan", "code": "AF"},
-        {"pais": "Åland Islands", "code": "AX"},
-        {"pais": "Albania", "code": "AL"},
-        {"pais": "Algeria", "code": "DZ"}
-        
     ]
     
 }
